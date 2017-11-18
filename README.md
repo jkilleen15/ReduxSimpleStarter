@@ -1,3 +1,6 @@
+IDEA FOR IMPROVEMENT >> Allow save to favorites (like netflix app)
+section for new searches, section for favorites
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
